@@ -1,4 +1,4 @@
-# Term 3 Assignment 2 - Alex Pike, Andrew "Gavin" Summers, Jackson Ngo
+# Term 3 Assignment 2 - Alex Pike, Andrew "Gavin" Simms, Jackson Ngo
 
 ### R1
 
