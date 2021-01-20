@@ -98,6 +98,8 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 #### Application Architecture Diagram
 
+![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
+
 ### A3
 
 
