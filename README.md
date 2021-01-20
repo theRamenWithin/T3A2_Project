@@ -85,7 +85,7 @@
 
 ### ERD
 
-[ERD](<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/42754da3-63ca-45a0-b832-1fac8b3fad37" id="21.7FshM5DDv"></iframe></div>)
+[ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png)
 
 ### A5
 
