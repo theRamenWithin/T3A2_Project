@@ -85,7 +85,7 @@
 
 ### ERD
 
-[ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png)
+![ERD](`https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png`)
 
 ### A5
 
