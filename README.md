@@ -1,4 +1,5 @@
 # Term 3 Assignment 2 - Alex Pike, Andrew "Gavin" Simms, Jackson Ngo
+---
 
 ### R1
 
@@ -14,6 +15,8 @@
 
 The purpose of this repository is to provide documentation and be a landing page for our Term 3 Assignment 2, Full Stack Web Application project.
 
+---
+
 ### **Links**
 
 Website URL: TODO
@@ -24,9 +27,13 @@ Front-end repo:TODO
 
 Back-end repo: TODO
 
+---
+
 ### **Purpose**
 
-TODO aims to solve the problem of small businesses needing a modular appointment booking system that can be customised to their needs without having to commision expensive, bespoke software. It aims to have an inutiative interface with granular complexity.
+**AppointmentNow** aims to solve the problem of small businesses needing a modular appointment booking system that can be customised to their needs without having to commision expensive, bespoke software. It aims to have an inutiative interface with granular complexity.
+
+---
 
 ### **Functionality / Features**
 
@@ -35,16 +42,20 @@ Search for bookings by time, provider and type of booking.
 View current and past bookings.
 TODO (link this in with user stories)
 
+---
+
 ### **Target Audience**
 
-The application sits between customers (such as, gym-goers) and organisations (such as, a gyms) who offer service providers (such as, class instructors) that have appointments (such as, classes) which have specific time slots and availabilities customers want to book.
+The application sits between **Customers** (such as, gym-goers) and **Organisations** (such as, a gyms) who offer **Providers** (such as, class instructors) that have **Events** (such as, classes) which have specific time slots as **Bookings**.
+
+---
 
 ### **Tech Stack**
 
 #### Front-End
 * HTML5
-* CCS3
     * Semantic-UI
+* CCS3
 * JavaScript
 * React
 #### Back-End
@@ -67,7 +78,9 @@ The application sits between customers (such as, gym-goers) and organisations (s
 * Trello
 * Discord
 * Google Docs
+* Lucid Chart
 
+---
 ---
 
 ### R2
@@ -79,6 +92,7 @@ The application sits between customers (such as, gym-goers) and organisations (s
 
 
 ---
+---
 
 ### R3
 
@@ -88,10 +102,13 @@ The application sits between customers (such as, gym-goers) and organisations (s
 
 
 ---
+---
 
 ### R4
 
 #### User Stories
+
+### A4
 
 #### Customers:
 
@@ -129,23 +146,20 @@ The application sits between customers (such as, gym-goers) and organisations (s
 - As a Administrator I’d like to add information about my Organisation.
 - As an Administrator I’d like to manage my Organisation.
 
-### A4
-
-
+---
 ---
 
 ### R5
 
 #### Wireframes for multiple standard screen sizes, created using industry standard software
 
+### A5
 
 ### ERD
 
 ![ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png "ERD")
 
-### A5
-
-
+---
 ---
 
 ### R6
