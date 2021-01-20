@@ -84,10 +84,9 @@ The application sits between customers (such as, gym-goers) and organisations (s
 
 #### Application Architecture Diagram
 
-![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
-
 ### A3
 
+![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
 
 ---
 
