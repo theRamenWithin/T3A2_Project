@@ -181,3 +181,4 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 ![Day1](docs/Trello-Day1.png "Day1")
 ![Day2](docs/Trello-Day2.png "Day2")
+![Day4](docs/Trello-Day4.png "Day4")
