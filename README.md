@@ -23,9 +23,9 @@ Website URL: TODO
 
 Website API: TODO
 
-Front-end repo:TODO
+Front-end repo: https://github.com/theRamenWithin/AppointmentNow_FrontEnd
 
-Back-end repo: TODO
+Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
 
 ---
 
@@ -37,10 +37,20 @@ Back-end repo: TODO
 
 ### **Functionality / Features**
 
-Profile customisation
-Search for bookings by time, provider and type of booking.
-View current and past bookings.
-TODO (link this in with user stories)
+#### **Profile customisation**
+* Customers, Providers and Organisations each have their own profiles with useful information inside them that they can edit and make publically available.
+### **Unique Organisations**
+* A Provider can create or join a new Organisation. Each Organisation has a unique URL that Customers can access to see all the Providers, events and bookings owned by that organisation.
+### **Search**
+* Customers can search for Organisations on the main index page. Once on an Organisation page, they can search for Providers, Events and Bookings by name, date and time.
+### **Appointments**
+* Providers can create Events that occur on a date and set the Booking slots available for that Event.
+* Customers can view the available Booking slots and to make an appointment.
+### **History**
+* Customers and Providers can see their current bookings and a history of past bookings.
+### **Management**
+* Providers with a Manager role can manage Providers, Events and Bookings under them.
+* Providers with an Administrator role can do the same and edit details about the Organisation.
 
 ---
 
@@ -98,10 +108,9 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 #### Application Architecture Diagram
 
-![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
-
 ### A3
 
+![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
 
 ---
 ---
