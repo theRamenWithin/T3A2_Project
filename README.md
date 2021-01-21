@@ -35,6 +35,8 @@
 
 ### R4
 
+### A4
+
 #### User Stories
 
 #### Customers:
@@ -73,9 +75,6 @@
 - As a Administrator I’d like to add information about my Organisation.
 - As an Administrator I’d like to manage my Organisation.
 
-### A4
-
-
 ---
 
 ### R5
@@ -85,7 +84,7 @@
 
 ### ERD
 
-![ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png "ERD")
+![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
 
 ### A5
 
