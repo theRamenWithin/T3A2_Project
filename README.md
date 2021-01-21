@@ -1,4 +1,5 @@
 # Term 3 Assignment 2 - Alex Pike, Andrew "Gavin" Simms, Jackson Ngo
+---
 
 ### R1
 
@@ -10,8 +11,86 @@
 
 ### A1
 
+### **Intro**
 
+The purpose of this repository is to provide documentation and be a landing page for our Term 3 Assignment 2, Full Stack Web Application project.
 
+---
+
+### **Links**
+
+Website URL: TODO
+
+Website API: TODO
+
+Front-end repo: https://github.com/theRamenWithin/AppointmentNow_FrontEnd
+
+Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
+
+---
+
+### **Purpose**
+
+**AppointmentNow** aims to solve the problem of small businesses needing a modular appointment booking system that can be customised to their needs without having to commision expensive, bespoke software. It aims to have an inutiative interface with granular complexity.
+
+---
+
+### **Functionality / Features**
+
+#### **Profile customisation**
+* Customers, Providers and Organisations each have their own profiles with useful information inside them that they can edit and make publically available.
+### **Unique Organisations**
+* A Provider can create or join a new Organisation. Each Organisation has a unique URL that Customers can access to see all the Providers, events and bookings owned by that organisation.
+### **Search**
+* Customers can search for Organisations on the main index page. Once on an Organisation page, they can search for Providers, Events and Bookings by name, date and time.
+### **Appointments**
+* Providers can create Events that occur on a date and set the Booking slots available for that Event.
+* Customers can view the available Booking slots and to make an appointment.
+### **History**
+* Customers and Providers can see their current bookings and a history of past bookings.
+### **Management**
+* Providers with a Manager role can manage Providers, Events and Bookings under them.
+* Providers with an Administrator role can do the same and edit details about the Organisation.
+
+---
+
+### **Target Audience**
+
+The application sits between **Customers** (such as, gym-goers) and **Organisations** (such as, a gyms) who offer **Providers** (such as, class instructors) that have **Events** (such as, classes) which have specific time slots as **Bookings**.
+
+---
+
+### **Tech Stack**
+
+#### Front-End
+* HTML5
+    * Semantic-UI
+* CCS3
+* JavaScript
+* React
+#### Back-End
+* Rails
+    * Faker
+    * cors-react
+    * jQuery
+    * Devise
+    * CanCanCan
+* AWS S3
+#### Database
+* Postgres
+#### Deployment
+* Heroku (back-end)
+* Netlify (front-end)
+#### Version Control
+* Git
+* Github
+#### Project Management
+* Trello
+* Discord
+* Google Docs
+* Lucid Chart
+
+---
 ---
 
 ### R2
@@ -23,6 +102,7 @@
 
 
 ---
+---
 
 ### R3
 
@@ -30,7 +110,9 @@
 
 ### A3
 
+![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
 
+---
 ---
 
 ### R4
@@ -38,6 +120,8 @@
 ### A4
 
 #### User Stories
+
+### A4
 
 #### Customers:
 
@@ -76,19 +160,19 @@
 - As an Administrator I’d like to manage my Organisation.
 
 ---
+---
 
 ### R5
 
 #### Wireframes for multiple standard screen sizes, created using industry standard software
 
+### A5
 
 ### ERD
 
 ![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
 
-### A5
-
-
+---
 ---
 
 ### R6
@@ -98,3 +182,5 @@
 ### A6
 
 ![Day1](docs/Trello-Day1.png "Day1")
+![Day2](docs/Trello-Day2.png "Day2")
+![Day4](docs/Trello-Day4.png "Day4")
