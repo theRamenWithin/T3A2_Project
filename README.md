@@ -117,6 +117,8 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 ### R4
 
+### A4
+
 #### User Stories
 
 ### A4
@@ -168,7 +170,7 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 ### ERD
 
-![ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png "ERD")
+![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
 
 ---
 ---
