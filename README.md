@@ -1,12 +1,17 @@
 # Term 3 Assignment 2 - Alex Pike, Andrew "Gavin" Simms, Jackson Ngo
+
 ---
 
 ### R1
 
 #### Description of your website, including:
+
 #### - Purpose
+
 #### - Functionality / features
+
 #### - Target audience
+
 #### - Tech stack
 
 ### A1
@@ -38,19 +43,30 @@ Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
 ### **Functionality / Features**
 
 #### **Profile customisation**
-* Customers, Providers and Organisations each have their own profiles with useful information inside them that they can edit and make publically available.
+
+- Customers, Providers and Organisations each have their own profiles with useful information inside them that they can edit and make publically available.
+
 ### **Unique Organisations**
-* A Provider can create or join a new Organisation. Each Organisation has a unique URL that Customers can access to see all the Providers, events and bookings owned by that organisation.
+
+- A Provider can create or join a new Organisation. Each Organisation has a unique URL that Customers can access to see all the Providers, events and bookings owned by that organisation.
+
 ### **Search**
-* Customers can search for Organisations on the main index page. Once on an Organisation page, they can search for Providers, Events and Bookings by name, date and time.
+
+- Customers can search for Organisations on the main index page. Once on an Organisation page, they can search for Providers, Events and Bookings by name, date and time.
+
 ### **Appointments**
-* Providers can create Events that occur on a date and set the Booking slots available for that Event.
-* Customers can view the available Booking slots and to make an appointment.
+
+- Providers can create Events that occur on a date and set the Booking slots available for that Event.
+- Customers can view the available Booking slots and to make an appointment.
+
 ### **History**
-* Customers and Providers can see their current bookings and a history of past bookings.
+
+- Customers and Providers can see their current bookings and a history of past bookings.
+
 ### **Management**
-* Providers with a Manager role can manage Providers, Events and Bookings under them.
-* Providers with an Administrator role can do the same and edit details about the Organisation.
+
+- Providers with a Manager role can manage Providers, Events and Bookings under them.
+- Providers with an Administrator role can do the same and edit details about the Organisation.
 
 ---
 
@@ -63,34 +79,46 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 ### **Tech Stack**
 
 #### Front-End
-* HTML5
-    * Semantic-UI
-* CCS3
-* JavaScript
-* React
+
+- HTML5
+  - Semantic-UI
+- CCS3
+- JavaScript
+- React
+
 #### Back-End
-* Rails
-    * Faker
-    * cors-react
-    * jQuery
-    * Devise
-    * CanCanCan
-* AWS S3
+
+- Rails
+  - Faker
+  - cors-react
+  - jQuery
+  - Devise
+  - CanCanCan
+- AWS S3
+
 #### Database
-* Postgres
+
+- Postgres
+
 #### Deployment
-* Heroku (back-end)
-* Netlify (front-end)
+
+- Heroku (back-end)
+- Netlify (front-end)
+
 #### Version Control
-* Git
-* Github
+
+- Git
+- Github
+
 #### Project Management
-* Trello
-* Discord
-* Google Docs
-* Lucid Chart
+
+- Trello
+- Discord
+- Google Docs
+- Lucid Chart
 
 ---
+
 ---
 
 ### R2
@@ -99,9 +127,12 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 ### A2
 
+Level 1: Abstraction of User-Application Interaction
 
+![Dataflow Diagram 1](docs/dataflow-lv1.png "Application Architecture Diagram")
 
 ---
+
 ---
 
 ### R3
@@ -113,6 +144,7 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 ![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
 
 ---
+
 ---
 
 ### R4
@@ -130,29 +162,27 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 - As a customer I'd like cancel a booking.
 - As a customer I'd like to edit a booking I have made.
 - As a customer I’d like to view my bookings.
-- ***As a customer I’d like to have an email confirmation when I create a booking, or my booking has changed.***
-- ***As a customer I’d like to be able to pay for my bookings online during the booking process.***
+- **_As a customer I’d like to have an email confirmation when I create a booking, or my booking has changed._**
+- **_As a customer I’d like to be able to pay for my bookings online during the booking process._**
 - As a customer I’d like to create my own user profile, and save details against my profile.
 - As a customer I'd like to be able to update my user profile.
-- As a customer I'd like to have a username/password to 
-- ***As a customer I’d like to use OAuth to log into the site.***
-- ***As a customer I'd like to leave reveiws of my bookings/appointments.***
+- As a customer I'd like to have a username/password to
+- **_As a customer I’d like to use OAuth to log into the site._**
+- **_As a customer I'd like to leave reveiws of my bookings/appointments._**
 - As a customer I'd like to have a record of my historic bookings
-
 
 #### Providers:
 
-- ***As a provider I’d like to be able to respond to reviews.***
+- **_As a provider I’d like to be able to respond to reviews._**
 - As a provider I’d like to set how many customers can join an appointment.
-- As a provider I’d like to create appointments that contain a: Title: Description: Date: Booking (ID): Customers:  Cost?:
+- As a provider I’d like to create appointments that contain a: Title: Description: Date: Booking (ID): Customers: Cost?:
 - As a Provider I’d like to have my own profile.
 - As a Provider I'd like to be able to search for Bookings/Appointments
 - As a Provider I'd like to be able to connect my sub-providers to customers (for example in the case of a Gym being a Provider; connecting the Gym Instructors to the Gym Members).
 
 #### Managers:
 
-- As a Manager I’d like to add additional providers to appointments… 
-
+- As a Manager I’d like to add additional providers to appointments…
 
 #### Administrators:
 
@@ -160,6 +190,7 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 - As an Administrator I’d like to manage my Organisation.
 
 ---
+
 ---
 
 ### R5
@@ -173,6 +204,7 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 ![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
 
 ---
+
 ---
 
 ### R6
