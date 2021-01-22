@@ -3,9 +3,13 @@
 ### R1
 
 #### Description of your website, including:
+
 #### - Purpose
+
 #### - Functionality / features
+
 #### - Target audience
+
 #### - Tech stack
 
 ### A1
@@ -42,31 +46,42 @@ The application sits between customers (such as, gym-goers) and organisations (s
 ### **Tech Stack**
 
 #### Front-End
-* HTML5
-* CCS3
-    * Semantic-UI
-* JavaScript
-* React
+
+- HTML5
+- CCS3
+  - Semantic-UI
+- JavaScript
+- React
+
 #### Back-End
-* Rails
-    * Faker
-    * cors-react
-    * jQuery
-    * Devise
-    * CanCanCan
-* AWS S3
+
+- Rails
+  - Faker
+  - cors-react
+  - jQuery
+  - Devise
+  - CanCanCan
+- AWS S3
+
 #### Database
-* Postgres
+
+- Postgres
+
 #### Deployment
-* Heroku (back-end)
-* Netlify (front-end)
+
+- Heroku (back-end)
+- Netlify (front-end)
+
 #### Version Control
-* Git
-* Github
+
+- Git
+- Github
+
 #### Project Management
-* Trello
-* Discord
-* Google Docs
+
+- Trello
+- Discord
+- Google Docs
 
 ---
 
@@ -76,7 +91,9 @@ The application sits between customers (such as, gym-goers) and organisations (s
 
 ### A2
 
+Level 1: Abstraction of User-Application Interaction
 
+![Dataflow Diagram - Level 1](docs/dataflow-lv1.png "Dataflow Diagram")
 
 ---
 
@@ -101,29 +118,27 @@ The application sits between customers (such as, gym-goers) and organisations (s
 - As a customer I'd like cancel a booking.
 - As a customer I'd like to edit a booking I have made.
 - As a customer I’d like to view my bookings.
-- ***As a customer I’d like to have an email confirmation when I create a booking, or my booking has changed.***
-- ***As a customer I’d like to be able to pay for my bookings online during the booking process.***
+- **_As a customer I’d like to have an email confirmation when I create a booking, or my booking has changed._**
+- **_As a customer I’d like to be able to pay for my bookings online during the booking process._**
 - As a customer I’d like to create my own user profile, and save details against my profile.
 - As a customer I'd like to be able to update my user profile.
-- As a customer I'd like to have a username/password to 
-- ***As a customer I’d like to use OAuth to log into the site.***
-- ***As a customer I'd like to leave reveiws of my bookings/appointments.***
+- As a customer I'd like to have a username/password to
+- **_As a customer I’d like to use OAuth to log into the site._**
+- **_As a customer I'd like to leave reveiws of my bookings/appointments._**
 - As a customer I'd like to have a record of my historic bookings
-
 
 #### Providers:
 
-- ***As a provider I’d like to be able to respond to reviews.***
+- **_As a provider I’d like to be able to respond to reviews._**
 - As a provider I’d like to set how many customers can join an appointment.
-- As a provider I’d like to create appointments that contain a: Title: Description: Date: Booking (ID): Customers:  Cost?:
+- As a provider I’d like to create appointments that contain a: Title: Description: Date: Booking (ID): Customers: Cost?:
 - As a Provider I’d like to have my own profile.
 - As a Provider I'd like to be able to search for Bookings/Appointments
 - As a Provider I'd like to be able to connect my sub-providers to customers (for example in the case of a Gym being a Provider; connecting the Gym Instructors to the Gym Members).
 
 #### Managers:
 
-- As a Manager I’d like to add additional providers to appointments… 
-
+- As a Manager I’d like to add additional providers to appointments…
 
 #### Administrators:
 
@@ -132,20 +147,17 @@ The application sits between customers (such as, gym-goers) and organisations (s
 
 ### A4
 
-
 ---
 
 ### R5
 
 #### Wireframes for multiple standard screen sizes, created using industry standard software
 
-
 ### ERD
 
 ![ERD](https://lucid.app/publicSegments/view/1d6c8421-6cd8-4ebf-99b4-b9814e521d43/image.png "ERD")
 
 ### A5
-
 
 ---
 
