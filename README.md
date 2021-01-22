@@ -129,9 +129,11 @@ The application sits between **Customers** (such as, gym-goers) and **Organisati
 
 Level 1: Abstraction of User-Application Interaction
 
-![Dataflow Diagram 1](docs/dataflow-lv1.png "Application Architecture Diagram")
+![Dataflow Diagram 1](docs/dataflow-lv1.png "Dataflow Diagram 1")
 
----
+Level 2: Abstraction of Application Sub-Processes
+
+![Dataflow Diagram 2](docs/dataflow-lv2.png "Dataflow Diagram 2")
 
 ---
 
