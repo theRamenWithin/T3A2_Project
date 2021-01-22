@@ -74,6 +74,8 @@ Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
 
 The application sits between **Customers** (such as, gym-goers) and **Organisations** (such as, a gyms) who offer **Providers** (such as, class instructors) that have **Events** (such as, classes) which have specific time slots as **Bookings**.
 
+As such, the target audience is Customers who wish to make Bookings on Events, hosted by Providers who belong to an Organisation. As well as Providers who belong to an Organisation who wants to offer Events that have Booking times to Customers.
+
 ---
 
 ### **Tech Stack**
@@ -218,3 +220,4 @@ Level 2: Abstraction of Application Sub-Processes
 ![Day1](docs/Trello-Day1.png "Day1")
 ![Day2](docs/Trello-Day2.png "Day2")
 ![Day4](docs/Trello-Day4.png "Day4")
+![Day5](docs/Trello-Day5.png "Day5")
