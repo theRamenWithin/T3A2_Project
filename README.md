@@ -131,6 +131,10 @@ As such, the target audience is Customers who wish to make Bookings on Events, h
 
 ### A2
 
+ERD
+
+![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
+
 Level 1: Abstraction of User-Application Interaction
 
 ![Dataflow Diagram 1](docs/dataflow-lv1.png "Dataflow Diagram 1")
@@ -204,9 +208,34 @@ Level 2: Abstraction of Application Sub-Processes
 
 ### A5
 
-### ERD
-
-![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
+Index<br>
+<img src="docs/Index.png" alt="Index"><br>
+Search<br>
+<img src="docs/Search.png" alt="Search"><br>
+Sign Up<br>
+<img src="docs/Sign Up.png" alt="Sign Up"><br>
+Join Organisation<br>
+<img src="docs/Join Organisation.png" alt="Join Organisation"><br>
+Edit Organisation<br>
+<img src="docs/Edit Organisation.png" alt="Edit Organisation"><br>
+Show Public View<br>
+<img src="docs/Show Public View.png" alt="Show Public View"><br>
+Event Index<br>
+<img src="docs/Event Index.png" alt="Event Index"><br>
+Create Event<br>
+<img src="docs/Create Event.png" alt="Create Event"><br>
+Show Event<br>
+<img src="docs/Show Event.png" alt="Show Event"><br>
+Book Event<br>
+<img src="docs/Book Event.png" alt="Book Event"><br>
+Stripe<br>
+<img src="docs/Stripe.png" alt="Stripe"><br>
+Stripe Success<br>
+<img src="docs/Stripe Success.png" alt="Stripe Success"><br>
+Tablet View<br>
+<img src="docs/Tablet View.png" alt="Tablet View" width="500px"><br>
+Mobile View<br>
+<img src="docs/Mobile View.png" alt="Mobile View" width="300px">
 
 ---
 
@@ -218,7 +247,11 @@ Level 2: Abstraction of Application Sub-Processes
 
 ### A6
 
+Day 1
 ![Day1](docs/Trello-Day1.png "Day1")
+Day 2
 ![Day2](docs/Trello-Day2.png "Day2")
+Day 4
 ![Day4](docs/Trello-Day4.png "Day4")
+Day 5
 ![Day5](docs/Trello-Day5.png "Day5")
