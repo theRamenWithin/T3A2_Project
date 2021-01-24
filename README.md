@@ -28,7 +28,7 @@ Website URL: TODO
 
 Website API: TODO
 
-Front-end repo: https://github.com/theRamenWithin/AppointmentNow_FrontEnd
+Front-end repo: https://github.com/theRamenWithin/appointment-now_front-end
 
 Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
 
