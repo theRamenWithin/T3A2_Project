@@ -256,4 +256,4 @@ Day 4
 Day 5
 ![Day5](docs/Trello-Day5.png "Day5")
 Day 7
-![Day5](docs/Trello-Day5.png "Day7")
+![Day5](docs/Trello-Day7.png "Day7")
