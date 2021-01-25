@@ -135,7 +135,11 @@ ERD
 
 ![ERD](https://lucid.app/publicSegments/view/bc60cb29-72b7-425d-baf1-44368487b0ff/image.png "ERD")
 
-Level 1: Abstraction of User-Application Interaction
+Level 0: Abstraction of User-Application Interaction
+
+![Dataflow Diagram 0](docs/dataflow-lv0.png "Dataflow Diagram 0")
+
+Level 1: Abstraction of Application Features
 
 ![Dataflow Diagram 1](docs/dataflow-lv1.png "Dataflow Diagram 1")
 
