@@ -24,7 +24,7 @@ The purpose of this repository is to provide documentation and be a landing page
 
 ### **Links**
 
-Website URL: TODO
+Website URL: https://appointmentnow.netlify.app/
 
 Website API: TODO
 
