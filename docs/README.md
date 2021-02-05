@@ -96,22 +96,13 @@ As such, the target audience is Customers who wish to make Bookings on Events, h
   - Faker
   - cors-react
   - jQuery
-  - bcrypt
-  - rspec-rails
-  - factory_bot_rails
-  - rack-cors
-  - aws-sdk-s3
-
+  - Devise
+  - CanCanCan
 - AWS S3
 
 #### Database
 
 - Postgres
-
-#### Testing
-
-- RSpec (back-end)
-- Cypress (front-end)
 
 #### Deployment
 
@@ -270,57 +261,3 @@ Day 5
 ![Day5](docs/Trello-Day5.png "Day5")
 Day 7
 ![Day5](docs/Trello-Day7.png "Day7")
-
-### R7
-
-#### Produce an application with an intuitive user interface
-
-#### A7
-
-See Source files and URL Published at: https://appointmentnow.netlify.app/
-
-### R8
-
-#### **Provides evidence of user testing**:
-
-#### A8 Development
-
-
-#### A8 Production
-
-
-### R9
-
-#### 	Utilises a formal testing framework
-
-#### A9
-
-### R10
-
-#### A link (URL) to your deployed website
-
-#### A10
-
-https://appointmentnow.netlify.app/
-
-### R11
-
-#### A link to your GitHub repository (repo)
-
-#### A11
-
-**Front End:**
-https://github.com/theRamenWithin/appointment-now_front-end
-
-**Back End:**
-https://github.com/GDawg78/appointmentnow_back_end
-
-### R12
-
-#### The contents of your README.md as submitted for Full Stack App - Part A
-
-#### A12
-
-See /Docs/README.md for orginially submitted Read Me. 
-
-**Back End:**
