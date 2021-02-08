@@ -44,7 +44,13 @@ https://appointmentnow.herokuapp.com
 #### Provides evidence of user testing:
 
 #### A8 Development
+#### RSPEC Testing of creation of working models Rails Back End
 
+![RSPec_Back_End](docs/backend_rpec_model_creation.gif)
+
+#### Cypress Testing of Website load, user login and user creation.
+
+![Cypress_Testing](docs/backend_cypress_tests.gif)
 
 #### A8 Production
 
