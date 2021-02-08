@@ -26,7 +26,7 @@ The purpose of this repository is to provide documentation and be a landing page
 
 Website URL: https://appointmentnow.netlify.app/
 
-Website API: TODO
+Website API: https://appointmentnow.herokuapp.com/ 
 
 Front-end repo: https://github.com/theRamenWithin/appointment-now_front-end
 

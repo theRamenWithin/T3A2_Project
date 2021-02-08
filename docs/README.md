@@ -36,7 +36,7 @@ Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
 
 ### **Purpose**
 
-<img src="docs/logo-large.png" alt="Logo Large" width="200px">
+<img src="logo-large.png" alt="Logo Large" width="200px">
 
 **AppointmentNow** aims to solve the problem of small businesses needing a modular appointment booking system that can be customised to their needs without having to commision expensive, bespoke software. It aims to have an inutiative interface with granular complexity.
 
@@ -137,15 +137,15 @@ ERD
 
 Level 0: Abstraction of User-Application Interaction
 
-![Dataflow Diagram 0](docs/dataflow-lv0.png "Dataflow Diagram 0")
+![Dataflow Diagram 0](dataflow-lv0.png "Dataflow Diagram 0")
 
 Level 1: Abstraction of Application Features
 
-![Dataflow Diagram 1](docs/dataflow-lv1.png "Dataflow Diagram 1")
+![Dataflow Diagram 1](dataflow-lv1.png "Dataflow Diagram 1")
 
 Level 2: Abstraction of Application Sub-Processes
 
-![Dataflow Diagram 2](docs/dataflow-lv2.png "Dataflow Diagram 2")
+![Dataflow Diagram 2](dataflow-lv2.png "Dataflow Diagram 2")
 
 ---
 ---
@@ -156,7 +156,7 @@ Level 2: Abstraction of Application Sub-Processes
 
 ### A3
 
-![Application Architecture Diagram](docs/AAD.png "Application Architecture Diagram")
+![Application Architecture Diagram](AAD.png "Application Architecture Diagram")
 
 ---
 
@@ -213,33 +213,33 @@ Level 2: Abstraction of Application Sub-Processes
 ### A5
 
 Index<br>
-<img src="docs/Index.png" alt="Index"><br>
+<img src="Index.png" alt="Index"><br>
 Search<br>
-<img src="docs/Search.png" alt="Search"><br>
+<img src="Search.png" alt="Search"><br>
 Sign Up<br>
-<img src="docs/Sign Up.png" alt="Sign Up"><br>
+<img src="Sign Up.png" alt="Sign Up"><br>
 Join Organisation<br>
-<img src="docs/Join Organisation.png" alt="Join Organisation"><br>
+<img src="Join Organisation.png" alt="Join Organisation"><br>
 Edit Organisation<br>
-<img src="docs/Edit Organisation.png" alt="Edit Organisation"><br>
+<img src="Edit Organisation.png" alt="Edit Organisation"><br>
 Show Public View<br>
-<img src="docs/Show Public View.png" alt="Show Public View"><br>
+<img src="Show Public View.png" alt="Show Public View"><br>
 Event Index<br>
-<img src="docs/Event Index.png" alt="Event Index"><br>
+<img src="Event Index.png" alt="Event Index"><br>
 Create Event<br>
-<img src="docs/Create Event.png" alt="Create Event"><br>
+<img src="Create Event.png" alt="Create Event"><br>
 Show Event<br>
-<img src="docs/Show Event.png" alt="Show Event"><br>
+<img src="Show Event.png" alt="Show Event"><br>
 Book Event<br>
-<img src="docs/Book Event.png" alt="Book Event"><br>
+<img src="Book Event.png" alt="Book Event"><br>
 Stripe<br>
-<img src="docs/Stripe.png" alt="Stripe"><br>
+<img src="Stripe.png" alt="Stripe"><br>
 Stripe Success<br>
-<img src="docs/Stripe Success.png" alt="Stripe Success"><br>
+<img src="Stripe Success.png" alt="Stripe Success"><br>
 Tablet View<br>
-<img src="docs/Tablet View.png" alt="Tablet View" width="500px"><br>
+<img src="Tablet View.png" alt="Tablet View" width="500px"><br>
 Mobile View<br>
-<img src="docs/Mobile View.png" alt="Mobile View" width="300px">
+<img src="Mobile View.png" alt="Mobile View" width="300px">
 
 ---
 
@@ -252,12 +252,12 @@ Mobile View<br>
 ### A6
 
 Day 1
-![Day1](docs/Trello-Day1.png "Day1")
+![Day1](Trello-Day1.png "Day1")
 Day 2
-![Day2](docs/Trello-Day2.png "Day2")
+![Day2](Trello-Day2.png "Day2")
 Day 4
-![Day4](docs/Trello-Day4.png "Day4")
+![Day4](Trello-Day4.png "Day4")
 Day 5
-![Day5](docs/Trello-Day5.png "Day5")
+![Day5](Trello-Day5.png "Day5")
 Day 7
-![Day5](docs/Trello-Day7.png "Day7")
+![Day7](Trello-Day7.png "Day7")
