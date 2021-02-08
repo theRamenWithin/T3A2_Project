@@ -30,7 +30,7 @@ https://trello.com/b/alq59gz4/appointmentnow-project-board
 
 #### Deploy the application to a cloud hosting service
 
-#### A6
+### A6
 
 https://appointmentnow.netlify.app/
 
@@ -43,8 +43,9 @@ https://appointmentnow.herokuapp.com
 
 #### Provides evidence of user testing:
 
-#### A8 Development
-#### RSPEC Testing of creation of working models Rails Back End
+### A8 Development
+
+##### RSPEC Testing of creation of working models Rails Back End
 
 ![RSPec_Back_End](docs/backend_rpec_model_creation.gif)
 
@@ -52,16 +53,7 @@ https://appointmentnow.herokuapp.com
 
 ![Cypress_Testing](docs/backend_cypress_tests.gif)
 
-#### A8 Production
-
----
----
-
-### R9
-
-#### 	Utilises a formal testing framework
-
-#### A9
+### A8 Production
 
 ---
 ---
@@ -70,7 +62,7 @@ https://appointmentnow.herokuapp.com
 
 #### A link (URL) to your deployed website
 
-#### A10
+### A10
 
 https://appointmentnow.netlify.app/
 
@@ -81,7 +73,7 @@ https://appointmentnow.netlify.app/
 
 #### A link to your GitHub repository (repo)
 
-#### A11
+### A11
 
 **Front End:**
 https://github.com/theRamenWithin/appointment-now_front-end
@@ -96,6 +88,6 @@ https://github.com/theRamenWithin/appointmentnow_back_end
 
 #### The contents of your README.md as submitted for Full Stack App - Part A
 
-#### A12
+### A12
 
 [Old README](./docs/README.md)
