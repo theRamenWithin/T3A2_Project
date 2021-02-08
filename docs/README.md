@@ -30,7 +30,7 @@ Website API: https://appointmentnow.herokuapp.com/
 
 Front-end repo: https://github.com/theRamenWithin/appointment-now_front-end
 
-Back-end repo: https://github.com/theRamenWithin/AppointmentNow_BackEnd
+Back-end repo: https://github.com/theRamenWithin/appointmentnow_back_end
 
 ---
 
