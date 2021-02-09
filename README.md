@@ -39,7 +39,7 @@ https://appointmentnow.herokuapp.com/
 
 ### A8 Provides evidence of user testing
 
-See attached testing spreadsheet /docs/testing.xlsx
+[Testing spreadsheet](./docs/testing.xlsx)
 
 ### R9
 
