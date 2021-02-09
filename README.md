@@ -8,7 +8,7 @@
 
 Github repo insights showing commit history
 
-https://github.com/theRamenWithin/appointmentnow_back_end/pulse/monthly
+https://github.com/GDawg78/appointmentnow_back_end/pulse/monthly
 
 https://github.com/theRamenWithin/appointment-now_front-end/pulse/monthly
 
@@ -79,7 +79,7 @@ https://appointmentnow.netlify.app/
 https://github.com/theRamenWithin/appointment-now_front-end
 
 **Back End:**
-https://github.com/theRamenWithin/appointmentnow_back_end
+https://github.com/GDawg78/appointmentnow_back_end
 
 ---
 ---
