@@ -34,16 +34,16 @@ https://trello.com/b/alq59gz4/appointmentnow-project-board
 
 https://appointmentnow.netlify.app/
 
-https://appointmentnow.herokuapp.com
+https://appointmentnow.herokuapp.com/
 
----
----
 
-### R8
+### A8 Provides evidence of user testing
 
-#### Provides evidence of user testing:
+See attached testing spreadsheet /docs/testing.xlsx
 
-### A8 Development
+### R9
+
+#### Utilises a formal testing framework
 
 ##### RSPEC Testing of creation of working models Rails Back End
 
@@ -53,11 +53,6 @@ https://appointmentnow.herokuapp.com
 
 ![Cypress_Testing](docs/backend_cypress_tests.gif)
 
-### A8 Production
-
----
----
-
 ### R10
 
 #### A link (URL) to your deployed website
@@ -65,9 +60,6 @@ https://appointmentnow.herokuapp.com
 ### A10
 
 https://appointmentnow.netlify.app/
-
----
----
 
 ### R11
 
